@@ -214,5 +214,8 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "hello-block"
   }
 ]

@@ -55,6 +55,12 @@
               }
             }
           }
+        },
+        {
+          "title": "Hello Block",
+          "id": "hello-block",
+          "name": "hello-block",
+          "model": "hello-block"
         }
       ]
     },
