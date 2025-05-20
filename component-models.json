@@ -216,6 +216,7 @@
     ]
   },
   {
-    "id": "hello-block"
+    "id": "hello-block",
+     "fields": []
   }
 ]
