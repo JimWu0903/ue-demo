@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p80707-e1363710.adobeaemcloud.com/bin/franklin.delivery/JimWu0903/ue-demo/main"
+    url: "https://9425fc400b49.ngrok-free.app/bin/franklin.delivery/JimWu0903/ue-demo/main"
     type: "markup"
     suffix: ".html"
